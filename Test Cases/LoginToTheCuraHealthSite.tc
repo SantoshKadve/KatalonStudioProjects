@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginToTheCuraHealthSite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f1d58d03-30c5-402a-bae6-4a5e3e5b5aa0</testCaseGuid>
+   <variable>
+      <defaultValue>'https://katalon-demo-cura.herokuapp.com'</defaultValue>
+      <description></description>
+      <id>b66c5029-ade9-4d6c-ad39-c1eaef539df8</id>
+      <masked>false</masked>
+      <name>baseUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>8c66f5a0-8547-4441-a689-a073209cc3e2</id>
+      <masked>false</masked>
+      <name>UserName</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>e57f1acf-84c7-4eae-885d-4f10c6995dae</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
